@@ -3,8 +3,6 @@
  * Created by Станислав on 05-Dec-16.
  */
 
-import java.util.Scanner;
-
 
 public class Neuron {
     private double[] x;
